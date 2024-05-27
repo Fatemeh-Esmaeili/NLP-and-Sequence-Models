@@ -2,4 +2,4 @@
 
 Coursera, deep learning specialization, sequence models course
 
-DataCamp, NLP track
+DataCamp, NLP track  
